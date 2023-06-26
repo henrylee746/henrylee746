@@ -22,7 +22,8 @@
   <a href="https://www.atlassian.com/agile/scrum" target="_blank" rel="noreferrer" title="Agile Scrum"> <img src="https://miro.medium.com/max/584/0*7BlveveWyYR3APC1" alt="scrum" width="40" height="40"/> </a> 
 
 <hr> 
-### Coding Enviornments
+
+### Coding Enviornments:
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" title="Visual Studio Code"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="visual studio code" width="40" height="40"/></a>
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer" title="Intellij IDEA"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" alt="intellij idea" width="40" height="40"/></a>
 <a href="https://help.gnome.org/users/gedit/stable/gedit-quickstart.html.en" target="_blank" rel="noreferrer" title="Gedit Text Editor"> <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/GNOME_Gedit_2018.svg/100px-GNOME_Gedit_2018.svg.png" alt="gedit" width="40" height="40"/></a>
