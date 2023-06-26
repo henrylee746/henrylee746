@@ -1,4 +1,4 @@
-### Hi there, I'm Henry 👋
+### Henry Lee: Thanks for Dropping By!
 ## Computer Science @ Carleton University '26
 
 ### Skills
