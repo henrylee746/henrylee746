@@ -11,11 +11,16 @@
 
 <hr>
 
+### Currently Learning
+<a href="https://kotlinlang.org" target="_blank" rel="noreferrer" title="Kotlin"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
+
 ### Frameworks
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer" title="Django"> <img src="https://www.sevenstarwebsolutions.com/wp-content/uploads/2019/06/django-showcase-2.png" alt="django" width="40" height="40"/> </a> 
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.atlassian.com/agile/scrum" target="_blank" rel="noreferrer" title="Agile Scrum"> <img src="https://miro.medium.com/max/584/0*7BlveveWyYR3APC1" alt="scrum" width="40" height="40"/> </a> 
 
+<hr> 
+### Coding Enviornments  
 
 
 
