@@ -1,5 +1,5 @@
 ### Hi there, I'm Henry 👋
-
+## Computer Science @ Carleton University '26
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
