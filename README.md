@@ -12,7 +12,7 @@
 <hr>
 
 ### Frameworks
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer" title="Django"> <img src="https://th.bing.com/th/id/OIP.Xd4pLScWQ9ZWXl_kJf840wHaJ4?pid=ImgDet&rs=1" alt="django" width="40" height="40"/> </a> 
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer" title="Django"> <img src="https://africaonlinesolutions.com/blog/wp-content/uploads/2019/06/original.jpeg" alt="django" width="40" height="40"/> </a> 
 
 
 
