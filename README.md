@@ -1,7 +1,7 @@
 ### Hi, I'm Henry. Thanks for dropping by!
 ## Computer Science @ Carleton University '26
 
-/*
+<!--
 <hr>
 
 ### Skills:
@@ -31,7 +31,8 @@
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer" title="Kotlin"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
 
 <hr>
-*/
+
+-->
 
 Feel free to contact me at henry.lee746@gmail.com
 
