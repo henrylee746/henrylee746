@@ -1,5 +1,5 @@
 ### Hi, I'm Henry. Thanks for dropping by!
-## Computer Science @ Carleton University '26
+## Computer Science @ Carleton University '27
 
 <!--
 <hr>
