@@ -2,6 +2,11 @@
 
 <hr>
 
+<h3>Prev:</h3>
+<ul>
+<li>Software Developer Co-Op @ Ericsson
+</li>
+
 <h3>Currently:</h3>
 <ul>
 <li>Student Developer Co-Op @ House of Commons of Canada
