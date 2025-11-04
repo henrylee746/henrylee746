@@ -4,7 +4,7 @@
 
 <hr>
 
-<p></p>Currently: 
+<h3>Currently:</h3>
 <p>Student Developer Co-Op @ House of Commons of Canada
 </p>
 <p>Inc. Frontend Developer Co-Op @ Kinaxis Jan 2026
