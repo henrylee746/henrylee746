@@ -6,6 +6,8 @@
 <ul>
 <li>Software Developer Co-Op @ Ericsson
 </li>
+</ul>
+<hr>
 
 <h3>Currently:</h3>
 <ul>
