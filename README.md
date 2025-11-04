@@ -4,10 +4,13 @@
 
 <hr>
 
-Currently: 
-Student Developer Co-Op @ House of Commons of Canada
-Inc. Frontend Developer Co-Op @ Kinaxis
-Tech Lead Developer @ CU Blueprint
+<p></p>Currently: 
+<p>Student Developer Co-Op @ House of Commons of Canada
+</p>
+<p>Inc. Frontend Developer Co-Op @ Kinaxis Jan 2026
+</p>
+<p>Tech Lead Developer @ CU Blueprint
+</p>
 
 <hr>
 
