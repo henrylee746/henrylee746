@@ -4,6 +4,8 @@
 
 <h3>Prev:</h3>
 <ul>
+<li>Student Developer Co-Op @ House of Commons of Canada Jan '24 - May'24
+</li>
 <li>Software Developer Co-Op @ Ericsson Sep '24 - May '25
 </li>
 </ul>
