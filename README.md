@@ -11,6 +11,9 @@
 </p>
 <p>Tech Lead Developer @ CU Blueprint
 </p>
+<p>
+  Working on FullStackOpen, a university-level course on modern full-stack development curated by The University of Helsinki
+</p>
 
 <hr>
 
