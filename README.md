@@ -4,7 +4,7 @@
 
 <h3>Prev:</h3>
 <ul>
-<li>Software Developer Co-Op @ Ericsson
+<li>Software Developer Co-Op @ Ericsson Sep '24 - May '25
 </li>
 </ul>
 <hr>
