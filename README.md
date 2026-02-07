@@ -26,10 +26,11 @@
 
 <hr>
 
-<h3>Inc:</h3>
+<h3>Incoming:</h3>
 <ul>
 <li>Web Developer Intern @ Nokia May '26
 </li>
+</ul>
 
 <hr>
 Feel free to contact me at henry.lee746@gmail.com
